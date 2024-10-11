@@ -1,3 +1,4 @@
 my resolusi
 - konsisten belajar minimal sehari sekali
+- harus mengerti apa yang dipelajari
 - fullstack
