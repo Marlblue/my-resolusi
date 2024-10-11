@@ -6,6 +6,4 @@ git
 github
 tailwind
 react
-expert fe
-work
-
+laugh
