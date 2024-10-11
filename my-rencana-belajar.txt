@@ -1,0 +1,4 @@
+git, github
+tailwind 
+react
+start backend
