@@ -1,8 +1,9 @@
-git, github
-tailwind 
+html
+css
+js
+npm
+git
+github
+tailwind
 react
-start backend
-learn
-learn
-learn
 laugh
